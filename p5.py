@@ -1,4 +1,5 @@
 
+#question a direct_sum ber korte bolse ota pari ni
 import numpy as np
 
 def matrix_intersection(m1,m2):
