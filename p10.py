@@ -1,4 +1,4 @@
-
+#looks similar to binary search algorithm
 def f(x):
     return x*x*x - 2*x - 5
 
