@@ -1,5 +1,5 @@
-
-
+#finding root of polynomial
+#extra :is it possible find all root of polynomial upto 10^9?
 MAX_ITER = 1000000
 
 def f(x): 
