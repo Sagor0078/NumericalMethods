@@ -11,7 +11,7 @@ def fact(n):
     return f
 n = 8
 x = [1,2,3,4,5,6,7,8]
-y = [[None]*n for j in range(len(x))]
+y = [[None]*n for j in range(len(x))]  #2D matrix
 y[0][0] = 1
 y[1][0] = 8
 y[2][0] = 27
